@@ -9,7 +9,7 @@ import { UsersService } from '../services/users.service';
 })
 export class NavbarComponent implements OnInit {
 
-  logo = "../assets/img/Logo.jpg";
+  logo = "/assets/img/Logo.jpg";
   image !: string
   email !: any
   loggedIn : boolean = false 
