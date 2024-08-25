@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 .card:hover{
     transform: scale(1.05);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.12), 0 4px 8px rgba(0,0,0,.06);
@@ -10,24 +9,3 @@
     margin-inline-start:1.5%;
       
 }
-
-
-
-
-=======
-.card:hover{
-    transform: scale(1.05);
-    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.12), 0 4px 8px rgba(0,0,0,.06);
-}
-
-
-.card {
-    margin-right: 30px; /* הזזת הכרטיס קצת לימין כדי ליצור רווח ביניהם */ 
-    margin-inline-start:1.5%;
-      
-}
-
-
-
-
->>>>>>> be96b3614cab7aadb259689a616faf125233c34a
