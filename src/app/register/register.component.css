@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .container {
     height: 100vh;
     display: flex;
@@ -21,4 +22,29 @@
   .justify-content-center {
     margin-top: 0; /* תוריד את המרווח */
   }
+=======
+.container {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+  }
+  
+  .bg-image {
+    background: linear-gradient(to right, #667eea, #764ba2);
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+  }
+  
+  .display-4 {
+    margin-top: 0; /* תוריד את המרווח */
+  }
+  
+  .justify-content-center {
+    margin-top: 0; /* תוריד את המרווח */
+  }
+>>>>>>> be96b3614cab7aadb259689a616faf125233c34a
   
