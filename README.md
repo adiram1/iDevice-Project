@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # AngularProject
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.2.
@@ -32,4 +31,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 iDevice Project is a website for selling laptops from companies like Apple, Asus, Dell, Lenovo, Microsoft.
 The site was built using the Angular framework and incorporates languages such as HTML, CSS, TypeScript, Bootstrap, and json server.
 The site displays a wide variety of laptops and provides detailed information on each product.
->>>>>>> be96b3614cab7aadb259689a616faf125233c34a
+
+Demo:
+https://adiram1.github.io/iDevice-Project
