@@ -9,7 +9,7 @@ import { UsersService } from '../services/users.service';
 })
 export class NavbarComponent implements OnInit {
 
-  logo = "assets/img/Logo.jpg";
+  logo = "https://adiram1.github.io/iDevice-Project/assets/img/Logo.jpg";
   image !: string
   email !: any
   loggedIn : boolean = false 
